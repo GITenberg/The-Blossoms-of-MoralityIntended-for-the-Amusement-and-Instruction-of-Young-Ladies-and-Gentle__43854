@@ -32,6 +32,8 @@ creator:
     gutenberg_agent_id: '45856'
     url: http://www.gutenberg.org/2009/agents/45856
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43854#The-Blossoms-of-MoralityIntended-for-the-Amusement-and-Instruction-of-Young-Ladies-and-Gentle_
 gutenberg_issued: '2013-09-30'
 gutenberg_type: Text
 identifiers:
